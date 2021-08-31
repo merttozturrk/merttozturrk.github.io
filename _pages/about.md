@@ -12,16 +12,16 @@ My name is Mert Ozturk and I'm currently continuing my MSc in Data Science at [S
 
 Education
 ======
-  * Sabanci University,Turkey 
-    MSc. Data Science
+  * Sabanci University,Turkey/
+    MSc. Data Science/
     2020-2022
 
-  * Otto von Guericke University Magdeburg,Germany
-    Erasmus European Mobility
+  * Otto von Guericke University Magdeburg,Germany/
+    Erasmus European Mobility/
     2019
 
-  * Middle East Technical University,Turkey
-    BSc. Statistics
+  * Middle East Technical University,Turkey/
+    BSc. Statistics/
     2015-2020
 
 For more info
