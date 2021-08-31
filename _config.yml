@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mert Ozturk"
-  avatar           : "https://raw.githubusercontent.com/merttozturrk/merttozturrk.github.io/images/mert_profile.png"
+  avatar           : "mert_profile.png"
   bio              : "MSc. Data Science Student at Sabanci University"
   location         : "Istanbul,Turkey"
   email            : "mertozturk@sabanciuniv.edu"
