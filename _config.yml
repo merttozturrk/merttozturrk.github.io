@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mert' Homepage"
+title                    : "Mert Ozturk's Homepage"
 title_separator          : "-"
 name                     : &name "Mert Ozturk"
 description              : &description "MSc. Data Science"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Mert Ozturk"
-  avatar           : "profile.png"
+  avatar           : "mert_profile.jpg"
   bio              : "MSc. Data Science Student at Sabanci University"
   location         : "Istanbul,Turkey"
   email            :
-  linkedin         : "https://www.linkedin.com/in/merttozturrk/"
+  linkedin         : "in/merttozturrk/"
   uri              :
   bitbucket        :
   codepen          :
