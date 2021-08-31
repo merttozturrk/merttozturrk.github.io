@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Mert Ozturk"
-  avatar           : "mert_profile.jpg"
+  avatar           : "mert_profile.png"
   bio              : "MSc. Data Science Student at Sabanci University"
   location         : "Istanbul,Turkey"
   email            :
-  linkedin         : "in/merttozturrk/"
+  linkedin         : "merttozturrk"
   uri              :
   bitbucket        :
   codepen          :
