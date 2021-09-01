@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Mert Ozturk and I'm currently continuing my M.Sc. in Data Science at [Sabanci University](https://www.sabanciuniv.edu/en/) and I received my undergraduate degree in Statistics from [Middle East Technical University](https://www.metu.edu.tr/) My research interests are natural language processing and sentiment analysis of social media data. Currently, I am a member of [VRL Lab](http://varollab.com/index.html) and working with [Onur Varol](http://www.onurvarol.com/) about sentiment analysis of Turkish Twitter users. 
+My name is Mert Ozturk and I'm currently continuing my M.Sc. in Data Science at [Sabanci University](https://www.sabanciuniv.edu/en/). I received my undergraduate degree in Statistics from [Middle East Technical University](https://www.metu.edu.tr/) My research interests are natural language processing and sentiment analysis of social media data. Currently, I am a member of [VRL Lab](http://varollab.com/index.html) and working with [Onur Varol](http://www.onurvarol.com/) about sentiment analysis of Turkish Twitter users. 
 
 Education
 ======
@@ -21,4 +21,10 @@ Education
 Research Interests
 ======
 
-  * 
+  * Sentiment Analysis
+
+  * Computational Statistics
+
+  * Machine Learning
+
+  * Economics
